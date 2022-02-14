@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.883b26b0.js",
-    "static/js/787.a1957ae0.chunk.js": "/react-gh-pages/static/js/787.a1957ae0.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.883b26b0.js.map": "/react-gh-pages/static/js/main.883b26b0.js.map",
-    "787.a1957ae0.chunk.js.map": "/react-gh-pages/static/js/787.a1957ae0.chunk.js.map"
+    "main.css": "/go-covid/static/css/main.073c9b0a.css",
+    "main.js": "/go-covid/static/js/main.b7fbaf7a.js",
+    "static/js/787.a1957ae0.chunk.js": "/go-covid/static/js/787.a1957ae0.chunk.js",
+    "index.html": "/go-covid/index.html",
+    "main.073c9b0a.css.map": "/go-covid/static/css/main.073c9b0a.css.map",
+    "main.b7fbaf7a.js.map": "/go-covid/static/js/main.b7fbaf7a.js.map",
+    "787.a1957ae0.chunk.js.map": "/go-covid/static/js/787.a1957ae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.883b26b0.js"
+    "static/js/main.b7fbaf7a.js"
   ]
 }
